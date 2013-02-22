@@ -25,6 +25,8 @@ public class FilleIntSet implements IntSet {
 		return tab.size();
 	}
 
-	
+	public static void main(String[] args){
+		System.out.println("Hello World !");
+	}
 
 }

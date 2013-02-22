@@ -48,7 +48,7 @@ public class TestCoco {
 	public void testSize() {
 		
 		
-		assertTrue("marche pas",!(is.size()==2));
+		assertTrue("marche pas ",!(is.size()==2));
 		
 	}
 	
